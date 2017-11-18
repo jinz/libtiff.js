@@ -4,6 +4,6 @@
     "license": "BSD-3-Clause",
     "files": [
         "build",
-        "libtiff.d.ts"
+        “index.d.ts"
     ]
 }
